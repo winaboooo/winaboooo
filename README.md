@@ -1,7 +1,7 @@
 - Hi, I’m Piyush
 - Currently pursuing BE in ENTC
 - Completed HTML, CSS, C
-- currently learning C++ & Java
+- currently learning C++ & JavaScript
 - ig @winaboooo :)
 
 <!---
