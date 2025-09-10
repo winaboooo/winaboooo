@@ -1,7 +1,6 @@
 - Hi, I’m Piyush
-- Currently pursuing BE in ENTC
-
-<!---
-winaboooo/winaboooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Here are a few of the technologies I've been working with recently:
+    Languages: JavaScript (still learning), Python, HTML5, CSS3
+    Frontend: React.js, Tailwind CSS
+    Backend: Node.js, Firebase
+    Tools & Platforms: Git, GitHub, VS Code
