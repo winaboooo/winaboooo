@@ -1,5 +1,5 @@
 - Hi, I’m Piyush
-- Here are a few of the technologies I've been working with recently and still:
+- I'm still early in my journey, but here are a few of the technologies I've been working with recently:
     - Languages: JavaScript, Python, HTML5, CSS3
     - Frontend: React.js, Tailwind CSS
     - Backend: Node.js, Firebase
